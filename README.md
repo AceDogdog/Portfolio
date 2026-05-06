@@ -19,19 +19,19 @@
 
 ### 🚀 Project Experience
 
-#### 🌦️ Australian Rainfall Probability Forecasting
+#### 🌦️ [Australian Rainfall Probability Forecasting](https://github.com/AceDogdog/Rain_in_AUS)
 *Meteorology & Climate Analytics | Sole Contributor*
 * Processed 10+ years of hourly meteorological data (temperature, humidity, wind speed) across 50+ Australian weather stations, cleaning 15% of missing/inconsistent records via time-series imputation.
 * Built **Random Forest & XGBoost classifiers** to predict 7-day rainfall probability; optimized feature interactions (e.g., "humidity × pressure gradient") to boost F1-score by 12% (from 0.68 to 0.76).
 * Visualized regional forecast accuracy via interactive **Tableau** heatmaps, highlighting 3 coastal regions where model performance exceeded local meteorological benchmarks.
 
-#### 🛒 Distributed Transaction Data System for Supermarket Alliance
+#### 🛒 [Distributed Transaction Data System for Supermarket Alliance](https://github.com/AceDogdog/Distributed-Transaction-Data-System-for-Supermarket-Alliance)
 *Retail Data Infrastructure | Core Team Member*
 * Designed a **distributed computing architecture (Spark + Kafka)** to ingest real-time transaction data (10k+ records/second) from 20+ retail locations, reducing data latency by 40% vs. the legacy centralized system.
 * Implemented data partitioning logic to ensure scalability; tested system resilience via 5x load spikes (simulated holiday traffic) with zero downtime.
 * Collaborated with retail analysts to define 12 core metrics (e.g., "hourly sales per product category") for the system’s real-time dashboard.
 
-#### 🧬 Genomic Driver Gene Identification for Cancer Subtypes
+#### 🧬 [Genomic Driver Gene Identification for Cancer Subtypes](https://github.com/AceDogdog/Genomic-Driver-Gene-Identification-for-Cancer-Subtypes)
 *Bioinformatics | Independent Research*
 * Analyzed **10k+ gene expression features** (ultra-high dimensional dataset) from 200+ patient samples across 3 cancer subtypes.
 * Applied **LASSO & SCAD variable selection** to narrow down 120+ candidate driver genes; validated 8 top genes via literature cross-reference (matched 6/8 with existing oncogenomics studies).
