@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Zongbo Li 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zongboli&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
 <p align="center"><b>A Data Science & Statistics student passionate about Machine Learning and Mining Analytics.</b></p>
 
 <h3 align="center"><code>Statistics & Data Science</code></h3>
@@ -12,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Currently studying **Data Science & Statistics** in a joint degree program (University of Arizona & CUEB), maintaining a 3.9 Major GPA. Expected graduation: June 2027.
+* 🎓 Currently studying **Data Science & Statistics** in a joint degree program (University of Arizona & CUEB). Expected graduation: June 2027.
 * 📈 Deeply interested in **High-Dimensional Statistics** and **Applied Machine Learning**, specifically predictive modeling using ensemble methods like XGBoost and Random Forest.
 * ⛏️ Gained valuable industry experience as an Assistant Consultant Intern at **SRK Consulting**, applying data science methodologies to geological and mineral resource analysis.
 * 🎯 Actively preparing for graduate studies and seeking opportunities to apply statistical rigor and scalable distributed systems to solve complex, real-world problems.
@@ -48,8 +44,8 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
   <br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
