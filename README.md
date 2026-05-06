@@ -56,6 +56,4 @@
 ### 📫 Let's Connect!
 
 I'm always open to discussing data science, statistical modeling, or potential collaborations. Feel free to reach out:
-
-* **Email:** [1220378491@qq.com](mailto:1220378491@qq.com)
 * **Quick Contact:** <a href="mailto:1220378491@qq.com"><img src="https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/></a>
