@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Zongbo Li 👋</h1>
+<h1 align="center">Hi there, I'm Zongbo Li </h1>
 
 <p align="center"><b>A Data Science & Statistics student passionate about Machine Learning and Mining Analytics.</b></p>
 
@@ -55,7 +55,7 @@
 </p>
 
 
-### 📫 **Let's Connect!**
+### 📫 **Connect?**
 
 I'm always open to discussing data science, statistical modeling, or potential collaborations. Feel free to reach out:
 
